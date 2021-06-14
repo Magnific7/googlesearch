@@ -41,6 +41,8 @@ li {
 }
 #searchthing {
   margin-left: 35%;
+  border: none;
+  background-color: white;
 }
 .er-dummy-search-box {
   /* width: 100%; */
@@ -71,4 +73,7 @@ li {
   border-width: 1px;
   border-color: #797171;
   box-sizing: border-box;
+}
+#footerp {
+    word-spacing: 30px;
 }
